@@ -1,1 +1,0 @@
-import{d as t}from"./index-Dc6P1OXb.js";import{e as r}from"./environment-Mqz1F-Rt.js";import{g as o}from"./auth-D2p3Ysfq.js";import"./_commonjsHelpers-C4iS2aBk.js";import"./util-DVlLIp8b.js";import"./responses-JPWar71Q.js";import"./router-JOb6U47x.js";import"./index-DPzuYzxM.js";const u=async({request:e})=>(o().logout(),t.redirect(r.basePath));export{u as clientLoader};
