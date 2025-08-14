@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-Italic.eot');
+    src: local('Neo Sans Pro Cyr Italic'), local('NeoSansProCyr-Italic'),
+        url('NeoSansProCyr-Italic.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-Italic.woff2') format('woff2'),
+        url('NeoSansProCyr-Italic.woff') format('woff'),
+        url('NeoSansProCyr-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-Light.eot');
+    src: local('Neo Sans Pro Cyr Light'), local('NeoSansProCyr-Light'),
+        url('NeoSansProCyr-Light.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-Light.woff2') format('woff2'),
+        url('NeoSansProCyr-Light.woff') format('woff'),
+        url('NeoSansProCyr-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-MediumItalic.eot');
+    src: local('Neo Sans Pro Cyr Medium Italic'), local('NeoSansProCyr-MediumItalic'),
+        url('NeoSansProCyr-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-MediumItalic.woff2') format('woff2'),
+        url('NeoSansProCyr-MediumItalic.woff') format('woff'),
+        url('NeoSansProCyr-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-Black.eot');
+    src: local('Neo Sans Pro Cyr Black'), local('NeoSansProCyr-Black'),
+        url('NeoSansProCyr-Black.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-Black.woff2') format('woff2'),
+        url('NeoSansProCyr-Black.woff') format('woff'),
+        url('NeoSansProCyr-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-BoldItalic.eot');
+    src: local('Neo Sans Pro Cyr Bold Italic'), local('NeoSansProCyr-BoldItalic'),
+        url('NeoSansProCyr-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-BoldItalic.woff2') format('woff2'),
+        url('NeoSansProCyr-BoldItalic.woff') format('woff'),
+        url('NeoSansProCyr-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-Bold.eot');
+    src: local('Neo Sans Pro Cyr Bold'), local('NeoSansProCyr-Bold'),
+        url('NeoSansProCyr-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-Bold.woff2') format('woff2'),
+        url('NeoSansProCyr-Bold.woff') format('woff'),
+        url('NeoSansProCyr-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-LightItalic.eot');
+    src: local('Neo Sans Pro Cyr Light Italic'), local('NeoSansProCyr-LightItalic'),
+        url('NeoSansProCyr-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-LightItalic.woff2') format('woff2'),
+        url('NeoSansProCyr-LightItalic.woff') format('woff'),
+        url('NeoSansProCyr-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-UltraItalic.eot');
+    src: local('Neo Sans Pro Cyr Ultra Italic'), local('NeoSansProCyr-UltraItalic'),
+        url('NeoSansProCyr-UltraItalic.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-UltraItalic.woff2') format('woff2'),
+        url('NeoSansProCyr-UltraItalic.woff') format('woff'),
+        url('NeoSansProCyr-UltraItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-Regular.eot');
+    src: local('Neo Sans Pro Cyr Regular'), local('NeoSansProCyr-Regular'),
+        url('NeoSansProCyr-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-Regular.woff2') format('woff2'),
+        url('NeoSansProCyr-Regular.woff') format('woff'),
+        url('NeoSansProCyr-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-BlackItalic.eot');
+    src: local('Neo Sans Pro Cyr Black Italic'), local('NeoSansProCyr-BlackItalic'),
+        url('NeoSansProCyr-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-BlackItalic.woff2') format('woff2'),
+        url('NeoSansProCyr-BlackItalic.woff') format('woff'),
+        url('NeoSansProCyr-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-Ultra.eot');
+    src: local('Neo Sans Pro Cyr Ultra'), local('NeoSansProCyr-Ultra'),
+        url('NeoSansProCyr-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-Ultra.woff2') format('woff2'),
+        url('NeoSansProCyr-Ultra.woff') format('woff'),
+        url('NeoSansProCyr-Ultra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro Cyr';
+    src: url('NeoSansProCyr-Medium.eot');
+    src: local('Neo Sans Pro Cyr Medium'), local('NeoSansProCyr-Medium'),
+        url('NeoSansProCyr-Medium.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansProCyr-Medium.woff2') format('woff2'),
+        url('NeoSansProCyr-Medium.woff') format('woff'),
+        url('NeoSansProCyr-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
