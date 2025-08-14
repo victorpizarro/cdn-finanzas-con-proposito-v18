@@ -1,0 +1,1 @@
+import{j as t}from"./jsx-runtime-DrDP4jKM.js";import{e as o}from"./environment-Mqz1F-Rt.js";import{N as r}from"./index-kqjhJLLg.js";import"./index-DPzuYzxM.js";import"./_commonjsHelpers-C4iS2aBk.js";import"./router-JOb6U47x.js";function s(){return t.jsx(r,{to:o.basePath})}export{s as default};
